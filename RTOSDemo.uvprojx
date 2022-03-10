@@ -338,7 +338,7 @@
               <MiscControls></MiscControls>
               <Define>RVDS_ARMCM3_LM3S102</Define>
               <Undefine></Undefine>
-              <IncludePath>.\Common\include;.\Common\Minimal;.\STM32F10xFWLib\inc;.\FreeRTOS-Kernel\include;.\FreeRTOS-Kernel\portable\RVDS\ARM_CM3;..\CORTEX_STM32F103_Keil_freeRTOS</IncludePath>
+              <IncludePath>.\Common\include;.\Common\Minimal;.\STM32F10xFWLib\inc;.\FreeRTOS-Kernel\include;.\FreeRTOS-Kernel\portable\RVDS\ARM_CM3;.</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
