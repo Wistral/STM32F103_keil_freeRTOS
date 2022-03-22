@@ -24,9 +24,9 @@ void systemTask(void *param) {
 
   while (1) {
     ledSetGreen(1);
-    vTaskDelay(M2T(20));
+    vTaskDelay(M2T(1000));
     ledSetGreen(0);
-    vTaskDelay(M2T(20));
+    vTaskDelay(M2T(1000));
   }
 
   // Should never reach this point!
